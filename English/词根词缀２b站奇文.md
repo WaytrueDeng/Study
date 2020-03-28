@@ -1,0 +1,76 @@
+元音：任意互换，不影响单词核心意思。
+
+辅音:不可以随意换，只有通假的时候可以换。
+
+g-ct t-d-s
+
+本质上类似于中国的通假字　来源主要是字母长得像或者是发音很想
+
+|               am-                |                   爱，amor丘比特另一个名字                   |        ami－able和蔼的<br />Am－ate－(e)ur业余爱好者         |
+| :------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|              -able               |                    形容词后缀，能够怎么样                    |                       port-able便携的                        |
+|              port-               |                             搬运                             |                     trans-port-ation交通                     |
+|              trans-              |                           改变远离                           |                      trans-parent透明的                      |
+|               Cup-               |                    占有，cupid爱神丘比特                     |                         oc cup y占有                         |
+|             Psyche-              |              心理精神，普修克，丘比特女朋友名字              |                                                              |
+|              Chaos               |                        混沌之神卡俄斯                        |                        chaotic混沌的                         |
+|               Gaea               |             大地女神盖亚<br />卡俄斯单性生殖生出             |            ground大地<br />grave,gravity,geology             |
+|              －ate               |                    名词，动词，形容词后缀                    |     graduate毕业生<br />graduate毕业<br />con-sider-ate      |
+|               -eur               |                         人的名词后缀                         |                entre-pre－n－eur企业家创业者                 |
+|                                  |                                                              |                                                              |
+|           ambi-/ambul            |                      周围，绕圈，不确定                      | ambul-ance救护车<br />ambi-val-ent心情矛盾的<br />（:价值不确定的就是心情矛盾的） |
+|              -val-               |                      表价值，强大，强壮                      |                          value价值                           |
+|               -ent               |             可以表形容词(后缀可以凭简单单词记忆)             |                       different不同的                        |
+|                                  |                                                              |                                                              |
+|              anim-               |                             生命                             | anim-al动物<br />Maga-anim-ous心胸博大的<br />anim-ation生气活泼 |
+|              Magn-               | 大（可以理解为ma妈，母爱是博大的，gn可以理解为gene表示基因，有传递之意） |                                                              |
+|                                  |                                                              |                                                              |
+|           7.ann-/enn-            |            年（可以理解为an(一个)＋n（nian年））             |           Ann-ual每年的<br />Per-enn-ial长期存在的           |
+|               -ial               |                          形容词后缀                          |                        spec-ial特别的                        |
+|              spec-               |                              看                              |                                                              |
+|               vis-               |                              看                              |                                                              |
+|               per-               |                      从头到尾，从始至终                      |                        per-fect(完美)                        |
+|              fect-               |                              做                              |              per-fetct<br />完美是做事有始有终               |
+|                                  |                                                              |                                                              |
+|           8.ant-/anti-           |      抗against<br />boy-cott抵制(扩展:愤怒小男孩说　靠)      |         ant-ag-on-ist对抗者anti-bio-tic抗生素<br />          |
+|           ag-做---act            |                       act音变而来g-ct                        |             agent代理,agency代理商,agenda日程表              |
+|               -on-               |                     动词＋on表示动词延续                     |                        come on,go on                         |
+|               -ist               |                         名词后缀,人                          |                   artist艺术家,scientist人                   |
+|               bio-               |                             生命                             |             bio-(o)logy生物<br />bio-graphy传记              |
+|              -ology              |                       名词后缀表示学科                       |                       pathology病理学                        |
+|              -graph              |                           写，传记                           |              bio-graph传记<br />photo-graph照片              |
+|              photo-              |                              光                              |                                                              |
+|               bi-                |                             两个                             |                        bi-cycle自行车                        |
+|              -cycle              |                              圈                              |                         re-cycle回收                         |
+|                                  |                                                              |                                                              |
+|             9.ante-              |                          在什么之前                          |      ante-ced-ent前情，先例<br />ante-rior前部的前面的       |
+| ced-<br />cess-<br />ceed-<br /> |                             走路                             |             suc-cess成功<br />suc-ceed成功<br />             |
+|               suc-               |                              下                              |            suc-cess只要持续走下去坚持下去就是成功            |
+|           -erior/-rior           | 形容词后缀由名词后缀er+形容词后缀ior而来(扩展:junior初级的,senior高级的) |          int-erior内部的<br />ext-erior外部的<br />          |
+|           10.anthrop-            |   人类human being<br />Android安卓系统,音变t-d-s<br />d-th   |                     Anthrop-ology人类学                      |
+
+| 11.aqu- |        水        |       aqu-ar-ium水族箱        |
+| :-----: | :--------------: | :---------------------------: |
+|   -ar   | 名词或形容词后缀 | liar<br />beggar<br />popular |
+|  -iium  |     名词后缀     |      stad-ium露天体育场       |
+|  stad-  |    stand站立     |                               |
+|         |                  |                               |
+
+| 12.arm- |                             武器                             |       arm-ory军械库<br />arm-i-st-ce停战谐音        |
+| :-----: | :----------------------------------------------------------: | :-------------------------------------------------: |
+|  -ory   |                    地点名词后缀什么的地方                    |                    fact-ory工厂                     |
+|  fat-   |                              做                              |            fact-ory做事情的地方就是工厂             |
+|  bat-   |                       bite咬　－>打架                        | com-bat冲突斗争打架<br />de-bate(bat-ate)辩论<br /> |
+|   de-   | 向下，否定，加强英语中de这个发音有强烈向下的语感，中文也如是，貌似应该石器时代及之前产生的？ |                                                     |
+|   st-   |                              站                              |                                                     |
+
+|                           13.art-                            |                      技巧,关节，节点                      | art-i-fic-ial人造的<br />Art-ic-le报道<br />art-ic(后缀)-ul(连接作用)-ate(动词后缀　) |
+| :----------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+| fict-<br />fact-<br />fect-<br />fag<br />fig<br />fec<br />fic<br /> | 做(元音互换，辅音ct-g互换，<br />t主要起连接作用可以去掉) |                                                              |
+|                           14.aud-                            |                            听                             |   aud-io录音的(以o结尾的与嘴有关)<br />audition试镜，试奏    |
+|                                                              |                                                           |          o（嘴）-sc（拟声嘶嘶）-ulate(动词后缀)接吻          |
+|                             vid-                             |                            看                             |                          video视频                           |
+|                             rad-                             |                         根，辐射                          | radio广播<br />e(ex向外)-rad(根，辐射)-ic后缀-ate动词后缀　根除 |
+|                         15.aut-auto-                         |                         自，自己                          |       auto-graph亲笔签名<br />auto-bio-graph自传<br />       |
+|                                                              |                                                           |                                                              |
+
