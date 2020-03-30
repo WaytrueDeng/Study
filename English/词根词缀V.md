@@ -19,8 +19,7 @@ Column A | Column B | Column C
 109.lev-|lift音变|e-lev-ator电梯<br>al-lev-iate减轻缓和
 109.1.scal-|称|e-scal-ator扶梯
 110.lingu-|lick音变预言|lingu-ist语言学家<br>lingu-ist-ics语言学
-111.olog-|学科|geo(地理)-(o)logy地质学<br>psych-ology心理学<br>crimi-n-ology
-犯罪学
+111.olog-|学科|geo(地理)-(o)logy地质学<br>psych-ology心理学<br>crimi-n-ology犯罪学
 112.long-|长|Long-ev(年纪时代)-ity长寿<br>pro-long延长
 113.loqu-|qu-k-g说话音变|loqu-ac-ious健谈的,话多的<br>co-l-loqu-ial口头的
 114.luc/lus/lust-|光照|lucy阳光少女<br>luci-fer<带来>路西法<br>luci-d清晰的明了的<br>e(ex向外)-luci-ate阐释<br>il(in)-lustr-ate阐述阐释
@@ -74,4 +73,4 @@ Column A | Column B | Column C
 157.pen-|悬挂penis你懂的|pen-dant有垂饰的项链,in-de-pend-ent独立的
 158.per-|透过，从始至终的|per-spect-ive角度<br>per-spire出汗
 159.per-|尝试| ex-per-iment实验
-160.peri-|周围|peri-**meter周边边缘**
+160.peri-|周围|peri-meter周边边缘
