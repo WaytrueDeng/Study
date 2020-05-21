@@ -2,14 +2,16 @@
 function ergodic(){
   for fullname in `ls $1`
   do
-    name=${fullname%.*}
+	{ name=${fullname%.*}
     ext=${fullname##*.}
     if [ "$ext" = "md" ]
     then
       echo $name
       pandoc $name.md -o $name.pdf --pdf-engine=xelatex -V mainfont="Source Han Serif CN"
-    fi
+    fi } &
   done
+  wait 
+  echo 'finish'
 }
  
 IFS=$'\n'
