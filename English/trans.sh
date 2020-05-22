@@ -7,7 +7,8 @@ function ergodic(){
     if [ "$ext" = "md" ]
     then
       echo $name
-      pandoc $name.md -o $name.pdf --pdf-engine=xelatex -V mainfont="Source Han Serif CN"
+	pandoc $name.md -o $name.html 
+##      pandoc $name.md -o $name.pdf --pdf-engine=xelatex -V mainfont="Source Han Serif CN"
     fi } &
   done
   wait 
