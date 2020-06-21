@@ -1,0 +1,98 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Page preview": true,
+    "Daily notes": true,
+    "Audio recorder": true,
+    "Zettelkasten prefixer": true
+  },
+  "workspaceLayout": {
+    "id": "fec2b1b9b616ece2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a26e048a8c2123d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linux/关于Linux的浅谈.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "41dda055e55a7b0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "929edd653f8c2f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c022ace082807b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bf8edc2fb236e79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "d8a9d12a3976cbda",
+    "type": "split",
+    "children": [
+      {
+        "id": "e447a33e492c9b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d116d541c5c32270",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "linux/关于Linux的浅谈.md",
+    "English/211 - 词根词缀IIb站奇文.md",
+    "English/212 - TIME精选1000词1.md",
+    "IMG/ED-ECG-横面导联轴.png",
+    "IMG/ED-ECG-额面六轴系统.png"
+  ],
+  "showLineNumber": true,
+  "vimMode": true,
+  "promptDelete": false
+}
