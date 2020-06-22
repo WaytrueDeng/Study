@@ -19,15 +19,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8a26e048a8c2123d",
+        "id": "3dd3ab52e96d00c4",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "linux/关于Linux的浅谈.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -86,13 +83,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "linux/关于Linux的浅谈.md",
-    "English/211 - 词根词缀IIb站奇文.md",
-    "English/212 - TIME精选1000词1.md",
-    "IMG/ED-ECG-横面导联轴.png",
-    "IMG/ED-ECG-额面六轴系统.png"
+    "Archived/IMG/Untitled recording.webm",
+    "Resouces/Diary/我们.md",
+    "Resouces/Diary/2020-06-22.md",
+    "我们.md",
+    "2020-06-22.md"
   ],
   "showLineNumber": true,
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Archived/IMG",
+  "alwaysUpdateLinks": true
 }
