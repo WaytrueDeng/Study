@@ -19,12 +19,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3dd3ab52e96d00c4",
+        "id": "5c5f1649a96d1d0a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Resouces/English/√tain&ten&tin&tent.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -58,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 164
   },
   "rightSidedock": {
     "id": "d8a9d12a3976cbda",
@@ -80,14 +83,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Archived/IMG/Untitled recording.webm",
-    "Resouces/Diary/我们.md",
-    "Resouces/Diary/2020-06-22.md",
-    "我们.md",
-    "2020-06-22.md"
+    "Resouces/English/√tain&ten&tin&tent.md",
+    "Resouces/Daily/202006221107.md",
+    "Resouces/Daily/拉丁语.md",
+    "Resouces/English/√cond.md",
+    "√ac&acr&acid.md"
   ],
   "showLineNumber": true,
   "vimMode": true,
