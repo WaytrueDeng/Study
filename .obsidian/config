@@ -19,13 +19,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5c5f1649a96d1d0a",
+        "id": "7eb37fbba29b3552",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resouces/English/√tain&ten&tin&tent.md",
+            "file": "Resouces/Daily/202006241539.md",
             "mode": "source"
           }
         }
@@ -87,11 +87,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Resouces/English/√tain&ten&tin&tent.md",
-    "Resouces/Daily/202006221107.md",
+    "Resouces/Daily/202006241539.md",
+    "√clud,clus(clos,clois,claus,clot) = to shut（关闭）.md",
     "Resouces/Daily/拉丁语.md",
-    "Resouces/English/√cond.md",
-    "√ac&acr&acid.md"
+    "√fin.md",
+    "√ultim.md"
   ],
   "showLineNumber": true,
   "vimMode": true,
