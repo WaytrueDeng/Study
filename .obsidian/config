@@ -12,22 +12,20 @@
     "Page preview": true,
     "Daily notes": true,
     "Audio recorder": true,
-    "Zettelkasten prefixer": true
+    "Zettelkasten prefixer": true,
+    "Custom CSS": true
   },
   "workspaceLayout": {
     "id": "fec2b1b9b616ece2",
     "type": "split",
     "children": [
       {
-        "id": "7eb37fbba29b3552",
+        "id": "328ad9fe50536174",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Resouces/Daily/202006241539.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -87,11 +85,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Resouces/Daily/202006241539.md",
-    "√clud,clus(clos,clois,claus,clot) = to shut（关闭）.md",
-    "Resouces/Daily/拉丁语.md",
-    "√fin.md",
-    "√ultim.md"
+    "√hydr，hydro，hydric.md",
+    "√aqua.md",
+    "√hydr.md",
+    "Resources/Daily/202006251828.md",
+    "√her&hes.md"
   ],
   "showLineNumber": true,
   "vimMode": true,
