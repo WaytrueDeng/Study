@@ -20,13 +20,29 @@
     "type": "split",
     "children": [
       {
-        "id": "328ad9fe50536174",
+        "id": "9f25e1581c1bdc6c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3 - Resources/Daily/202006261906.md",
+            "mode": "source"
+          }
+        },
+        "group": "6becd7278be2d1b0"
+      },
+      {
+        "id": "306cf1eedbb957f4",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "3 - Resources/Daily/202006261906.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6becd7278be2d1b0"
       }
     ],
     "direction": "vertical"
@@ -85,11 +101,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "√hydr，hydro，hydric.md",
-    "√aqua.md",
-    "√hydr.md",
-    "Resources/Daily/202006251828.md",
-    "√her&hes.md"
+    "3 - Resources/Daily/202006261906.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "3 - Resources/Daily/202006251828.md",
+    "Untitled recording.webm"
   ],
   "showLineNumber": true,
   "vimMode": true,
