@@ -22,27 +22,14 @@
       {
         "id": "9f25e1581c1bdc6c",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "3 - Resources/Daily/202006261906.md",
             "mode": "source"
           }
-        },
-        "group": "6becd7278be2d1b0"
-      },
-      {
-        "id": "306cf1eedbb957f4",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3 - Resources/Daily/202006261906.md",
-            "mode": "preview"
-          }
-        },
-        "group": "6becd7278be2d1b0"
+        }
       }
     ],
     "direction": "vertical"
@@ -102,10 +89,10 @@
   },
   "lastOpenFiles": [
     "3 - Resources/Daily/202006261906.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "3 - Resources/Daily/202006251828.md",
-    "Untitled recording.webm"
+    "√pel.md",
+    "√ped.md",
+    "√path(o),pat(i),pass(i),pathy.md",
+    "√sent,sens.md"
   ],
   "showLineNumber": true,
   "vimMode": true,
