@@ -1,0 +1,196 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.7.1)  1 JUL 2020 13:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**全球抗疫中的中国力量.tex
+(./全球抗疫中的中国力量.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-06-03 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+))
+Package: xeCJK 2020/05/01 v3.8.3 Typesetting CJK scripts with XeLaTeX
+
+
+! Critical Package xeCJK Error: The xeCJK package requires XeTeX to function.
+(xeCJK)                         
+(xeCJK)                         You must change your typesetting engine to
+(xeCJK)                         "xelatex"
+(xeCJK)                         instead of plain "latex" or "pdflatex" or
+(xeCJK)                         "lualatex".
+(xeCJK)                         Loading xeCJK will abort!
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.43 ..._critical:nn { xeCJK } { Require-XeTeX } }
+                                                  
+? 
+)
+! Undefined control sequence.
+l.4 \setCJKmainfont
+                   {WenQuanYi Zen Hei}
+? 
+! Interruption.
+<to be read again> 
+                   {
+l.4 \setCJKmainfont{
+                    WenQuanYi Zen Hei}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \setCJKmainfont{W
+                     enQuanYi Zen Hei}
+? 
+(./全球抗疫中的中国力量.aux
+! Interruption.
+l.114512543 
+            
+? 
+! Interruption.
+l.283566893 
+            
+? 
+! Interruption.
+l.300568026 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.308984910 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.314321436 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.319895108 
+            
+? 
+! Interruption.
+l.324732557 
+            
+? 
+! Interruption.
+l.345974423 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.347152253 
+            
+? 
+! Interruption.
+l.348337462 
+            
+? 
+! Interruption.
+l.349567530 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.350721147 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.351914991 
+            
+? 
+! Interruption.
+l.353106464 
+            
+? 
+! Interruption.
+l.354293799 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.355515102 
+            
+? 
+! Interruption.
+l.356688865 
+            
+? 
+! Interruption.
+l.357882401 
+            
+? 
+! Interruption.
+l.359037358 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.360225292 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.361446235 
+            
+? 
+! Interruption.
+l.362603770 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.363807231 
+            
+? 
+! Interruption.
+<to be read again> 
+                   \par 
+l.364998283 
+            
+? 
+! Interruption.
+l.366202058 
+            
+? 
+! 
